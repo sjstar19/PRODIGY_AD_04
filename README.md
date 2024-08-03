@@ -18,7 +18,7 @@ Testing: While not explicitly mentioned in the code, I experimented with unit te
 **Download ApK here:**
 app-debug-androidTest.apk
 **Getting Started**
-Clone this repository: git clone https://github.com/your-username/TicTacToeApp.git
+Clone this repository: git clone (https://github.com/sjstar19/PRODIGY_AD_04.git)
 Open the project in Android Studio.
 Build and run the app on an emulator or physical device.
 
